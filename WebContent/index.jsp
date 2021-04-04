@@ -8,7 +8,7 @@
 </head>
 <body>
 <%
-out.println("Hello Word!");
+out.println("Je suis Amine Chakib");
 %>
 </body>
 </html>
