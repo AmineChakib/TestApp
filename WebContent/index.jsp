@@ -8,7 +8,7 @@
 </head>
 <body>
 <%
-out.println("Je suis Amine Chakib");
+out.println("La prochaine étape est l'ajout des tests avant le déploiement.");
 %>
 </body>
 </html>
